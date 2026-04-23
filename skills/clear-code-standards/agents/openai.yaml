@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clear Code Standards"
+  short_description: "Readable Python-first code without masking fallbacks."
+  default_prompt: "Apply strict readability-first coding standards. Prioritize correctness, keep control flow simple, avoid fallback-style masking logic, use explicit exception semantics, follow Python conventions (PEP 8/257), prefer helpful type hints, and add concise intent comments only on critical logic."
